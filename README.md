@@ -14,5 +14,7 @@ Traditional reconstruction algorithms use acoustic inversion analytical methods 
 # Results.
 ![image](https://github.com/yqx7150/PAT-public-data/assets/26964726/03b289d4-559d-42ec-8cf8-65088993f469)
 
-Fig. 2.Reconstruction results of 180 angles,(a)(d)(f) are black tape samples, 
-     (b)(e)(g) are the obtained sinograms, (c)(f)(h) are the back-projection reconstruction results 
+Fig. 2.Reconstruction results of 180 angles,
+     (a) (d) (f) are black tape samples, 
+     (b) (e) (g) are the obtained sinograms, 
+     (c) (f) (h) are the back-projection reconstruction results 

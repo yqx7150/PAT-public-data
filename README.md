@@ -27,9 +27,3 @@ Fig. 2.Reconstruction results of 180 angles,
      (a) (d) (g) are black tape samples, 
      (b) (e) (h) are the obtained sinograms, 
      (c) (f) (i) are the back-projection reconstruction results 
-![qiu](https://github.com/yqx7150/PAT-public-data/assets/26964726/fd774007-7beb-400b-8006-5b3d164af483)
-
-Fig. 3.Reconstruction results of 180 angles,
-     (a)are black tape samples, 
-     (b)are the obtained sinograms, 
-     (c)are the back-projection reconstruction results

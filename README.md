@@ -21,9 +21,10 @@ Rotation radius of rotary table~7cm，
 
 
 # Results.
-![image](https://github.com/yqx7150/PAT-public-data/assets/26964726/03b289d4-559d-42ec-8cf8-65088993f469)
+![zong](https://github.com/yqx7150/PAT-public-data/assets/26964726/a50a2dea-9500-42df-b57c-75b4f05257a1)
+
 
 Fig. 2.Reconstruction results of 180 angles,
-     (a) (d) (g) are black tape samples, 
-     (b) (e) (h) are the obtained sinograms, 
-     (c) (f) (i) are the back-projection reconstruction results 
+     (a) (d) (g) (j) are black tape samples, 
+     (b) (e) (h) (k) are the obtained sinograms, 
+     (c) (f) (i) (l) are the back-projection reconstruction results 

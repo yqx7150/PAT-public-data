@@ -11,8 +11,11 @@ Our system consists of step control module, laser trigger module and acquisition
 ![xitongtu](https://github.com/yqx7150/PAT-public-data/assets/26964726/14582541-3ad0-484d-90e1-e475011c4996)
 
 Capture card sampling frequency：500MHz，
+
 Sampling points：50000，
+
 Rotation radius of rotary table~7cm，
+
 360° imaging (scan every 2°, 180 times in total)
 
 
@@ -24,7 +27,8 @@ Fig. 2.Reconstruction results of 180 angles,
      (a) (d) (g) are black tape samples, 
      (b) (e) (h) are the obtained sinograms, 
      (c) (f) (i) are the back-projection reconstruction results 
-![qiu33](https://github.com/yqx7150/PAT-public-data/assets/26964726/12708230-6ab1-41b7-bd3f-8d087204fbff)
+![qiu](https://github.com/yqx7150/PAT-public-data/assets/26964726/fd774007-7beb-400b-8006-5b3d164af483)
+
 Fig. 3.Reconstruction results of 180 angles,
      (a)are black tape samples, 
      (b)are the obtained sinograms, 

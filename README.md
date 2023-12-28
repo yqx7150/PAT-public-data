@@ -12,7 +12,7 @@ Our system consists of step control module, laser trigger module and data acquis
 
 
 
-Capture card sampling frequency：500MHz，
+DAQ sampling frequency：500MHz，
 
 Sampling points：50000，
 

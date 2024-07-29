@@ -4,3 +4,5 @@ phantom_sparse180_recon-A                                              sampling:
 phantom_sparse180_recon-P                                              sampling:50000
 phantom_sparse180_recon-T                                              sampling:50000
 phantom_sparse180_recon-Three spherical shapes                         sampling:50000
+phantom_sparse180_recon-T-500Mhz                                       sampling:35000
+phantom_sparse180_recon-T-50Mhz                                        sampling:35000

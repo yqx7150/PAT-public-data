@@ -1,9 +1,9 @@
 # PAT-public-data
 
-Authors: Xianlin Song, Jiahong Li, Zhiyuan Zheng,Zilong Li,Guijun Wang,Wenhua Zhong,Qiegen Liu
+Jiahong Li a, Zhiyuan Zheng a, Zilong Li a, Yiguang Wang a, Yubin Cao a, Qiegen Liu a,* ,Xianlin Song a,* Establishment of data-domain sharing database for generative artificial intelligence-based photoacoustic tomography
+If data from this database are used, please cite the above papers:"Establishment of data-domain sharing database for generative artificial intelligence-based photoacoustic tomography"-https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13248/132480U/Establishment-of-data-domain-sharing-database-for-generative-artificial-intelligence/10.1117/12.3033668.short
+Date : Dec-6-2024
 
-Date : Dec-12-2023
-Version : 1.0
 
 Traditional reconstruction algorithms use acoustic inversion analytical methods to reconstruct, such as time domain back-projection, time reversal, delayed summation, etc. To obtain high-quality imaging, one can utilize multi-element ultrasound detectors, such as a full-ring detector, spherical detection array, ring detection array, or planar detection array. Of course, this will make the system more complex and more expensive. Therefore, we use a single-probe photoacoustic system, which uses a rotating stage to drive the probe to rotate to different angles to collect photoacoustic signals, and then uses the collected photoacoustic data to reconstruct the image using a back-projection algorithm.
 # System.

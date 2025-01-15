@@ -1,6 +1,7 @@
 # PAT-public-data
 
 Jiahong Li a, Zhiyuan Zheng a, Zilong Li a, Yiguang Wang a, Yubin Cao a, Qiegen Liu a,* ,Xianlin Song a,* Establishment of data-domain sharing database for generative artificial intelligence-based photoacoustic tomography
+
 If data from this database are used, please cite the above papers:"Establishment of data-domain sharing database for generative artificial intelligence-based photoacoustic tomography"-https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13248/132480U/Establishment-of-data-domain-sharing-database-for-generative-artificial-intelligence/10.1117/12.3033668.short
 Date : Dec-6-2024
 
